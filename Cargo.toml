@@ -1,8 +1,8 @@
 [package]
-name = "deser_derive"
+name = "esde_derive"
 license = "MIT"
 description = "derive macros accompanying the `deser` crate"
-repository = "https://github.com/Anonym234/deser_derive"
+repository = "https://github.com/Anonym234/esde_derive"
 version = "1.0.0"
 edition = "2021"
 
